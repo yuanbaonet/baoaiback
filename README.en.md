@@ -293,7 +293,7 @@ Apache2.0
 
 ## Copyright
 
-<img style="vertical-align: top;" src="./assets/img/baoai/soft.png" alt="logo" height="400px">
+<img style="vertical-align: top;" src="./assets/img/baoai/soft.jpg" alt="logo" height="400px">
   
 
 
