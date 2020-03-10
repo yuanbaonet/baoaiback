@@ -1,0 +1,1 @@
+venv\Scripts\python www_manage.py runserver --threaded
