@@ -203,17 +203,6 @@ python manage.py db upgrade
 
 + Email [703264459@qq.com](703264459@qq.com) 
 
-## 项目捐赠
-
-所有的捐赠资金都投入到了BaoAI社区基金中，用于支持BaoAI项目的运作。
-
-先强调一下：**BaoAI是开源项目，可以永久免费使用，并没有强制捐赠的要求！！！**
-
-捐赠方式：
-<img style="vertical-align: top;" src="./assets/img/baoai/donate.jpg" alt="logo" height="200px">
-
-长期维护捐赠清单，请在留言中注明是项目捐赠以及捐赠人的名字。
-
 
 ## 版权说明
 

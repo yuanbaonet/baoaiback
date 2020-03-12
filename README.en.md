@@ -276,17 +276,6 @@ Quant：
 
 + Email [703264459@qq.com](703264459@qq.com) 
 
-## Project donation
-
-All the donation funds are invested in the baoai community fund to support the operation of the baoai project.
-First of all, I would like to emphasize that * * baoai is an open source project, which can be used permanently and free of charge. There is no requirement for mandatory donation!!! 
-
-Donation method:
-<img style="vertical-align: top;" src="./assets/img/baoai/donate.jpg" alt="logo" height="200px">
-
-Long term maintenance donation list, please indicate the project donation and the name of the donor in the message.
-
-
 ## License
 
 Apache2.0
