@@ -181,9 +181,7 @@ class AttachmentsCKeditorBrowserUploadAPI(Resource):
         module_obj_id = request.headers.get("X-Module-Obj-Id")
         filename = request.headers.get("X-File-Name")
         filesize = request.headers.get("X-File-Size")
-        static_url = request.headers.get("X-STATIC_URL")        
-        current_app.logger.debug("module_name:"+module_name)
-        current_app.logger.debug("module_obj_id:"+str(module_obj_id))
+        static_url = request.headers.get("X-STATIC-URL")        
         data = {
             "uploaded": 0,
             "fileName": "",

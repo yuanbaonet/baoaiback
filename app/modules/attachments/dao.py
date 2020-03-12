@@ -287,7 +287,7 @@ class AttachmentsDao(object):
         current_app.logger.debug('dir(rfile)')
         current_app.logger.debug(dir(rfile))
         data['mimetype'] = rfile.mimetype
-        data['filesize'] = filesize                
+        data['filesize'] = int(filesize)                
         UPLOAD_FOLDER = current_app.config['UPLOAD_FOLDER']
         dt = datetime.now()
         dtlist = dt.strftime('%Y %m %d').split(' ')
@@ -323,8 +323,7 @@ class AttachmentsDao(object):
             attachments.isimage = data['isimage']
             if module_name :
                 attachments.module_name = module_name
-            if module_obj_id :
-                attachments.module_obj_id = module_obj_id            
+            attachments.module_obj_id = int(module_obj_id)          
             db.session.add(attachments)
             db.session.commit()
         except Exception as e:
