@@ -145,7 +145,7 @@ python-editor==1.0.4
 python-status==1.0.1
 pytz==2018.9
 pywinpty==0.5.5
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==18.1.0
 qtconsole==4.5.4
 redis==3.3.8
