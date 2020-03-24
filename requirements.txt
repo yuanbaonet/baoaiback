@@ -18,7 +18,7 @@ backtrader-plotting==0.5.3
 bcrypt==3.1.6
 beautifulsoup4==4.8.0
 billiard==3.6.1.0
-bleach==1.5.0
+bleach==3.1.2
 bokeh==1.0.4
 bs4==0.0.1
 ccxt==1.18.1225
