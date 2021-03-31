@@ -89,7 +89,7 @@ Keras==2.1.6
 kiwisolver==1.1.0
 kombu==4.6.4
 lockfile==0.12.2
-lxml==4.4.1
+lxml==4.6.3
 Mako==1.0.7
 Markdown==3.1.1
 MarkupSafe==1.1.1
