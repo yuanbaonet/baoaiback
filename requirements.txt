@@ -47,7 +47,7 @@ fabric==2.4.0
 Fabric3==1.13.1.post1
 Flask==1.0.2
 Flask-Compress==1.4.0
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 Flask-Login==0.4.0
 flask-marshmallow==0.7.0
 Flask-Migrate==2.4.0
