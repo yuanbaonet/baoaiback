@@ -42,7 +42,7 @@ dnspython==1.16.0
 docutils==0.14
 empyrical==0.5.3
 entrypoints==0.3
-eventlet==0.25.1
+eventlet==0.31.0
 fabric==2.4.0
 Fabric3==1.13.1.post1
 Flask==1.0.2
