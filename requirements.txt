@@ -108,7 +108,7 @@ notebook==6.0.1
 numexpr==2.7.0
 numpy==1.17.0
 oandapy==0.0.9
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 packaging==19.0
 pandas==0.25.1
 pandas-datareader==0.7.4
