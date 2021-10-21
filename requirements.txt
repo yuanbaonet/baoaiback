@@ -11,7 +11,7 @@ asn1crypto==0.24.0
 astor==0.8.0
 async-timeout==3.0.1
 attrs==18.2.0
-Babel==2.7.0
+Babel==2.9.1
 backcall==0.1.0
 backtrader==1.9.74.123
 backtrader-plotting==0.5.3
