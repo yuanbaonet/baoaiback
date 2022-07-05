@@ -130,7 +130,7 @@ psutil==5.6.3
 ptyprocess==0.6.0
 py-cpuinfo==5.0.0
 pyasn1==0.4.5
-pycares==3.0.0
+pycares==4.2.0
 pycparser==2.19
 pyfolio==0.9.2
 Pygments==2.4.2
