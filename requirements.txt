@@ -23,7 +23,7 @@ bokeh==1.0.4
 bs4==0.0.1
 ccxt==1.18.1225
 celery==4.3.0
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 Click==7.0
